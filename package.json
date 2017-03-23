@@ -1,0 +1,19 @@
+{
+  "name": "scrapsncf",
+  "version": "1.0.0",
+  "description": "scrap of an email.test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrirosa/ScrapSNCF.git"
+  },
+  "author": "adrirosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrirosa/ScrapSNCF/issues"
+  },
+  "homepage": "https://github.com/adrirosa/ScrapSNCF#readme"
+}
